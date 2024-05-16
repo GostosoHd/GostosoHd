@@ -1,16 +1,16 @@
-### Hi there 👋
+### ola a todos 👋
+Meu nome é Rikelwe Rodrigues Brito
 
-<!--
-**GostosoHd/GostosoHd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no alura
+- estou me desenvolvendo na linguagem do javascript
+-  utilizo esse espaço para manter uma aproximação de vocês com meu trabalho
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você podera me encontrar em:
+
+
+Rikelwer@gmail.com
+Spirit Fanfic: Nalu_Is_Love
+  
+![](https://media1.tenor.com/m/J8n2TtVhx3AAAAAd/natsu.gif)
+ 
